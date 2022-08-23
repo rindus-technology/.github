@@ -1,6 +1,4 @@
-# We create technology.
-
-## We do it the rindus way. Because we love people.
+# We do it the rindus way. Because we love people.
 
 We help companies to shape their perfect software development teams.
 
